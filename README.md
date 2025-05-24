@@ -1,8 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-<h1 align="left">🎴Hi , I'm Sklyarenko Vladislav🎴</h1>
-
-
+# 🎴Hi , I'm Sklyarenko Vladislav🎴
 ### SUAI student
 ### backend developer
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sklyarvladislav&label=Profile%20views&color=0e75b6&style=flat" alt="sklyarvladislav" /> </p>
