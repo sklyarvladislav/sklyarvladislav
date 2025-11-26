@@ -61,6 +61,10 @@
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6638a57e98bce1e3bafbe3c7?variant=dark" alt="roadmap.sh"/></a>
 
+<a href="https://leetcode.com/sklyarvlad/">
+  <img src="https://leetcode-stats.vercel.app/api?username=sklyarvlad&theme=dark" alt="LeetCode Stats"/>
+</a>
+
 ------
 [**sklyarvladislav**](https://github.com/sklyarvladislav)
 24/05/2025
