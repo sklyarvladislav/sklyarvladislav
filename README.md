@@ -121,6 +121,52 @@
 ---
 
 <div align="center">
+
+### 📫 **Contacts & Links**
+
+<p>
+    <!-- Telegram -->
+  <a href="https://t.me/sklyarvlad_review" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+
+
+  <!-- VK -->
+  <a href="https://vk.com/sklyar.vlad" target="_blank">
+    <img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
+  </a>
+
+<!-- Discord -->
+  <a href="https://discord.com/users/sklyarvlad" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/sklyarvlad" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-0078D7?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/sklyarvlad" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+
+  <!-- StackOverflow -->
+  <a href="https://stackoverflow.com/users/31963450/sklyarvlad" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"/>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:sklyarvladislavtl@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-00FF99?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+</div>
+
+--- 
+
+<div align="center">
 <h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=500&color=0AFF80&center=true&vCenter=true&width=550&lines=Thanks+for+visiting;Have+a+nice+day" alt="Typing SVG" />
 </h1>
