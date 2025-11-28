@@ -71,11 +71,11 @@
 <table>
   <tr>
       <td><b>Backend:</b></td>
-      <td><img height="45" src="https://skillicons.dev/icons?i=python,fastapi,django&theme=dark"/></td>
+      <td><img height="45" src="https://skillicons.dev/icons?i=python,fastapi&theme=dark"/></td>
   </tr>
   <tr>
       <td><b>Frontend:</b></td>
-      <td><img height="45" src="https://skillicons.dev/icons?i=figma&theme=dark"/></td>
+      <td><img height="45" src="https://skillicons.dev/icons?i=figma,html,css&theme=dark"/></td>
   </tr>
   <tr>
       <td><b>Database:</b></td>
@@ -87,19 +87,22 @@
   </tr>
   <tr>
       <td><b>Version Control:</b></td>
-      <td><img height="45" src="https://skillicons.dev/icons?i=git,github&theme=dark"/></td>
+      <td><img height="45" src="https://skillicons.dev/icons?i=git,github,gitlab&theme=dark"/></td>
   </tr>
   <tr>
       <td><b>IDEs:</b></td>
-      <td><img height="45" src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm&theme=dark"/></td>
+      <td><img height="45" src="https://skillicons.dev/icons?i=vscode,neovim,pycharm,sublime,vim,visualstudio&theme=dark"/></td>
   </tr>
   <tr>
       <td><b>Other:</b></td>
-      <td><img height="45" src="https://skillicons.dev/icons?i=bash&theme=dark"/></td>
+      <td><img height="45" src="https://skillicons.dev/icons?i=bash,ps,obsidian,powershell,md&theme=dark"/></td>
   </tr>
   <tr>
-      <td><b>Operating Systems:</b></td>
-      <td><img height="45" src="https://skillicons.dev/icons?i=mint,ubuntu,debian,windows&theme=dark"/></td>
+    <td><b>Operating Systems:</b></td>
+    <td>
+        <img height="45" src="https://skillicons.dev/icons?i=linux,arch,debian,ubuntu,mint,windows&theme=dark"/>
+        <img height="38" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg"/>
+    </td>
   </tr>
 </table>
 
