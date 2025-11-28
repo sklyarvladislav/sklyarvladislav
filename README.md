@@ -36,22 +36,23 @@
 
 <br />
 
-<!-- Streak и Top Languages рядом -->
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-top: 10px; margin-bottom: 20px;">
-  <!-- Streak -->
-  <a href="https://github.com/sklyarvladislav">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=sklyarvladislav&theme=dark&background=0D1F17&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" />
-  </a>
 
-  <!-- Общая статистика -->
-  <a href="https://github.com/sklyarvladislav">
-    <img
-      src="https://github-readme-stats.zcy.dev/api?username=sklyarvladislav&show_icons=true&theme=dark&hide_border=true&title_color=00FF99&icon_color=00FF99&text_color=ccffe8&bg_color=0D1F17" />
-  </a>
-
-</div>
-
+<table align="center">
+  <tr>
+    <!-- Streak -->
+    <td>
+      <a href="https://github.com/sklyarvladislav">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sklyarvladislav&theme=dark&background=0D1F17&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" />
+      </a>
+    </td>
+    <!-- Общая статистика -->
+    <td>
+      <a href="https://github.com/sklyarvladislav">
+        <img src="https://github-readme-stats.zcy.dev/api?username=sklyarvladislav&show_icons=true&theme=dark&hide_border=true&title_color=00FF99&icon_color=00FF99&text_color=ccffe8&bg_color=0D1F17" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 <!-- Top Languages -->
